@@ -2,3 +2,4 @@ data.json
 .env
 firebase-key.json
 node_modules
+.DS_Store
