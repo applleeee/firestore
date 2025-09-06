@@ -1,1 +1,4 @@
 data.json
+.env
+firebase-key.json
+node_modules
